@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RTKTodo/static/css/main.bd68c0dd.chunk.css",
+    "main.js": "/RTKTodo/static/js/main.8f3947e5.chunk.js",
+    "main.js.map": "/RTKTodo/static/js/main.8f3947e5.chunk.js.map",
+    "runtime-main.js": "/RTKTodo/static/js/runtime-main.59064a3d.js",
+    "runtime-main.js.map": "/RTKTodo/static/js/runtime-main.59064a3d.js.map",
+    "static/js/2.92c315da.chunk.js": "/RTKTodo/static/js/2.92c315da.chunk.js",
+    "static/js/2.92c315da.chunk.js.map": "/RTKTodo/static/js/2.92c315da.chunk.js.map",
+    "index.html": "/RTKTodo/index.html",
+    "static/css/main.bd68c0dd.chunk.css.map": "/RTKTodo/static/css/main.bd68c0dd.chunk.css.map",
+    "static/js/2.92c315da.chunk.js.LICENSE.txt": "/RTKTodo/static/js/2.92c315da.chunk.js.LICENSE.txt",
+    "static/media/doneStamp.29e02b1c.png": "/RTKTodo/static/media/doneStamp.29e02b1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59064a3d.js",
+    "static/js/2.92c315da.chunk.js",
+    "static/css/main.bd68c0dd.chunk.css",
+    "static/js/main.8f3947e5.chunk.js"
+  ]
+}
